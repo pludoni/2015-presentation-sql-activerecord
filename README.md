@@ -1,1 +1,1 @@
-http://wdcmdresden.github.io/2015-graylog
+http://pludoni.github.io/2015-presentation-sql-activerecord
